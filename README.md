@@ -6,6 +6,6 @@ For work, I currently do research where I am creating an **emulator** for one cl
 
 I tend to gravitate towards projects that allow me to problem solve while creating high-impact solutions. 
 
-Outside of work and my studies, I love to read, keep up with F1, and explore all things tech related.
+Outside of work and my studies I love to read, keep up with F1, and explore all things tech related.
 
 [Let's Connect🎯!](https://linkedin.com/in/cecilia-tipping)
