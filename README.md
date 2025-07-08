@@ -1,4 +1,4 @@
-### Hello💫
+# Hello💫
 
 I'm *Cecilia*, an undergraduate student at Southern Methodist University studying **computer science, physics, and data science**.</br>
 
