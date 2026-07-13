@@ -1,6 +1,6 @@
 # Hello💫
 
-I'm *Cecilia*, an undergraduate student at Southern Methodist University studying **computer science, physics, and data science**.</br>
+I'm *Cecilia*, a graduate student at Teachers College, Columbia Univeristy passionate about education and hoping to create interactive media for learning purposes.</br>
 
 For work, I currently do research where I am creating an **emulator** for one class of **galaxy simulations** in order to **predict** observable quatities such as the luminosity of different emission lines from physical quantities like star formation rates or galaxy diameter. </br>
 
