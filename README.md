@@ -4,7 +4,7 @@ I'm *Cecilia*, a graduate student at Teachers College, Columbia Univeristy passi
 
 I tend to gravitate towards projects that allow me to problem solve while creating high-impact solutions. </br>
 
-Outside of work and my studies I love to read, keep up with F1, and explore all things tech related. </br>
+Outside of work and my studies I love to read, keep up with the marvel universe, and explore all things tech related. </br>
 
 [Let's Connect🎯!](https://linkedin.com/in/cecilia-tipping)</br>
 
